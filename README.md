@@ -1,6 +1,6 @@
-# 🔊 Peerify Native Audio Engine
+# 🔊 kynmix win Native Audio Engine
 
-The high-performance core of Peerify, providing ultra-low latency audio processing, intelligent mixing, and real-time analysis through a hybrid C++ architecture.
+The high-performance core of kynmix, providing ultra-low latency audio processing, intelligent mixing, and real-time analysis through a hybrid C++ architecture.
 
 ---
 
